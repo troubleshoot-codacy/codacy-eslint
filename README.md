@@ -13,6 +13,11 @@ only if it's stated in the plugin's documentation
 ---
   **NOTE**
   Before adding a plugin to the Codacy UI, make sure it has widespread use and is actively maintained. Otherwise, installing it as described in point `1` can be enough for users using configuration files.
+  - 
+  can I test?
+
+  * something
+    - else 
 
 ---
 3.  \[Plugins only\] If the plugin has descriptions for rules on GitHub, reference them
