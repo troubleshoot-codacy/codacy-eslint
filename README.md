@@ -2,6 +2,8 @@
 
 ## Adding new plugins / configs
 
+make PR 
+
 1.  Install the package using npm:
 
     ```bash
