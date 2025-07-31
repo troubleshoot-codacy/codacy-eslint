@@ -6,3 +6,9 @@ engines:
     config:
       languages:
         - "typescript"
+  complexity:
+    exclude_paths:
+      - "src/docGeneratorMain.ts"
+    config:
+      languages:
+        - "typescript"
