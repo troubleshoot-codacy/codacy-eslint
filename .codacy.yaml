@@ -1,11 +1,5 @@
 ---
 engines:
-  duplication:
-    exclude_paths:
-      - "src/docGeneratorMain.ts"
-    config:
-      languages:
-        - "typescript"
   metric:
     exclude_paths:
       - "src/docGeneratorMain.ts"
